@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>exercises</key>
+		<array>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=d6V2Exzb324</string>
+				<key>title</key>
+				<string>Wall Extensions</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=WyW5jGGxoZk</string>
+				<key>title</key>
+				<string>Band Dislocates</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=K9bK0BwKFjs</string>
+				<key>title</key>
+				<string>Cat Camel Bends</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=akgQbxhrhOc</string>
+				<key>title</key>
+				<string>Scalpular Shrugs</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=yRigKuEou7k</string>
+				<key>title</key>
+				<string>Fullbody Circles</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Front and side leg swings</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Wrist Mobility</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Warm-Up</string>
+	</dict>
+	<dict>
+		<key>exercises</key>
+		<array>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-60 seconds</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=PLu6k-uKOJ0</string>
+				<key>title</key>
+				<string>Plank</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-60s</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=xIFWxQgFMiE</string>
+				<key>title</key>
+				<string>Side Planks</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-60s</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=1s1bPYBPERU</string>
+				<key>title</key>
+				<string>Reverse Plank</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-60 seconds</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=Y3FSeSecjKA</string>
+				<key>title</key>
+				<string>Hollow Hold</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-60 seconds</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=wrzjVTK2brk</string>
+				<key>title</key>
+				<string>Arch</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Bodyline Work</string>
+	</dict>
+	<dict>
+		<key>exercises</key>
+		<array>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-20 reps</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=CVaEhXotL7M</string>
+				<key>title</key>
+				<string>Squat Jumps</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>10-20 reps</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=41knz-ZUiBU</string>
+				<key>title</key>
+				<string>Burpees</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Activity</string>
+	</dict>
+	<dict>
+		<key>exercises</key>
+		<array>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=d6V2Exzb324</string>
+				<key>title</key>
+				<string>Wall Extensions</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=WyW5jGGxoZk</string>
+				<key>title</key>
+				<string>Band Dislocates</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=K9bK0BwKFjs</string>
+				<key>title</key>
+				<string>Cat Camel Bends</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=akgQbxhrhOc</string>
+				<key>title</key>
+				<string>Scalpular Shrugs</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=yRigKuEou7k</string>
+				<key>title</key>
+				<string>Fullbody Circles</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Front and side leg swings</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Wrist Mobility</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Skill Work</string>
+	</dict>
+	<dict>
+		<key>exercises</key>
+		<array>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=d6V2Exzb324</string>
+				<key>title</key>
+				<string>Wall Extensions</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=WyW5jGGxoZk</string>
+				<key>title</key>
+				<string>Band Dislocates</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=K9bK0BwKFjs</string>
+				<key>title</key>
+				<string>Cat Camel Bends</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=akgQbxhrhOc</string>
+				<key>title</key>
+				<string>Scalpular Shrugs</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=yRigKuEou7k</string>
+				<key>title</key>
+				<string>Fullbody Circles</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Front and side leg swings</string>
+			</dict>
+			<dict>
+				<key>recommendedRepCount</key>
+				<string>5-10</string>
+				<key>videoUrl</key>
+				<string>https://www.youtube.com/watch?v=4aoUZEZFJF8</string>
+				<key>title</key>
+				<string>Wrist Mobility</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Strength Work</string>
+	</dict>
+</array>
+</plist>

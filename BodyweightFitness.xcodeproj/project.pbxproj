@@ -9,11 +9,18 @@
 /* Begin PBXBuildFile section */
 		4C66E001C93FB818130EAF13 /* Pods_BodyweightFitness.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BCA5BBC1635524A09A8C24F /* Pods_BodyweightFitness.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		B79749DB1B600D380014C28B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79749DA1B600D380014C28B /* AppDelegate.swift */; };
-		B79749DD1B600D380014C28B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79749DC1B600D380014C28B /* ViewController.swift */; };
-		B79749E01B600D380014C28B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B79749DE1B600D380014C28B /* Main.storyboard */; };
 		B79749E21B600D380014C28B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B79749E11B600D380014C28B /* Assets.xcassets */; };
-		B79749E51B600D380014C28B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B79749E31B600D380014C28B /* LaunchScreen.storyboard */; };
 		B79749F01B600D380014C28B /* BodyweightFitnessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79749EF1B600D380014C28B /* BodyweightFitnessTests.swift */; };
+		B79749FC1B600F0E0014C28B /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79749FA1B600F0E0014C28B /* HomeViewController.swift */; };
+		B79749FD1B600F0E0014C28B /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79749FA1B600F0E0014C28B /* HomeViewController.swift */; };
+		B7974A051B600F3C0014C28B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A041B600F3C0014C28B /* User.swift */; };
+		B7974A061B600F3C0014C28B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A041B600F3C0014C28B /* User.swift */; };
+		B7974A081B600F6B0014C28B /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A071B600F6B0014C28B /* Workout.swift */; };
+		B7974A091B600F6B0014C28B /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A071B600F6B0014C28B /* Workout.swift */; };
+		B7974A101B6010AD0014C28B /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A0F1B6010AD0014C28B /* Exercise.swift */; };
+		B7974A111B6010AD0014C28B /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7974A0F1B6010AD0014C28B /* Exercise.swift */; };
+		B7974A131B6010D70014C28B /* BeginnersConfiguration.plist in Resources */ = {isa = PBXBuildFile; fileRef = B7974A121B6010D70014C28B /* BeginnersConfiguration.plist */; };
+		B7974A141B6010D70014C28B /* BeginnersConfiguration.plist in Resources */ = {isa = PBXBuildFile; fileRef = B7974A121B6010D70014C28B /* BeginnersConfiguration.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +39,16 @@
 		90AAA5A898F8313335267A51 /* Pods-BodyweightFitness.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BodyweightFitness.release.xcconfig"; path = "Pods/Target Support Files/Pods-BodyweightFitness/Pods-BodyweightFitness.release.xcconfig"; sourceTree = "<group>"; };
 		B79749D71B600D380014C28B /* BodyweightFitness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BodyweightFitness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B79749DA1B600D380014C28B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B79749DC1B600D380014C28B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B79749DF1B600D380014C28B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B79749E11B600D380014C28B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B79749E41B600D380014C28B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B79749E61B600D380014C28B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B79749EB1B600D380014C28B /* BodyweightFitnessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BodyweightFitnessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B79749EF1B600D380014C28B /* BodyweightFitnessTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyweightFitnessTests.swift; sourceTree = "<group>"; };
 		B79749F11B600D380014C28B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B79749FA1B600F0E0014C28B /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Core/Controller/HomeViewController.swift; sourceTree = "<group>"; };
+		B7974A041B600F3C0014C28B /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = User.swift; path = Core/Model/User.swift; sourceTree = "<group>"; };
+		B7974A071B600F6B0014C28B /* Workout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Workout.swift; path = Core/Model/Workout.swift; sourceTree = "<group>"; };
+		B7974A0F1B6010AD0014C28B /* Exercise.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Exercise.swift; path = Core/Model/Exercise.swift; sourceTree = "<group>"; };
+		B7974A121B6010D70014C28B /* BeginnersConfiguration.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = BeginnersConfiguration.plist; path = Core/Model/BeginnersConfiguration.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +110,10 @@
 		B79749D91B600D380014C28B /* BodyweightFitness */ = {
 			isa = PBXGroup;
 			children = (
+				B7974A0A1B600F7B0014C28B /* Lib */,
+				B7974A001B600F230014C28B /* Core */,
 				B79749DA1B600D380014C28B /* AppDelegate.swift */,
-				B79749DC1B600D380014C28B /* ViewController.swift */,
-				B79749DE1B600D380014C28B /* Main.storyboard */,
 				B79749E11B600D380014C28B /* Assets.xcassets */,
-				B79749E31B600D380014C28B /* LaunchScreen.storyboard */,
 				B79749E61B600D380014C28B /* Info.plist */,
 			);
 			path = BodyweightFitness;
@@ -118,6 +126,57 @@
 				B79749F11B600D380014C28B /* Info.plist */,
 			);
 			path = BodyweightFitnessTests;
+			sourceTree = "<group>";
+		};
+		B7974A001B600F230014C28B /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				B7974A031B600F2D0014C28B /* Controller */,
+				B7974A021B600F2A0014C28B /* View */,
+				B7974A011B600F270014C28B /* Model */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		B7974A011B600F270014C28B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B7974A041B600F3C0014C28B /* User.swift */,
+				B7974A071B600F6B0014C28B /* Workout.swift */,
+				B7974A0F1B6010AD0014C28B /* Exercise.swift */,
+				B7974A121B6010D70014C28B /* BeginnersConfiguration.plist */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		B7974A021B600F2A0014C28B /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		B7974A031B600F2D0014C28B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				B79749FA1B600F0E0014C28B /* HomeViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		B7974A0A1B600F7B0014C28B /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				B7974A0B1B600F800014C28B /* Extensions */,
+			);
+			name = Lib;
+			sourceTree = "<group>";
+		};
+		B7974A0B1B600F800014C28B /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -203,9 +262,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B79749E51B600D380014C28B /* LaunchScreen.storyboard in Resources */,
 				B79749E21B600D380014C28B /* Assets.xcassets in Resources */,
-				B79749E01B600D380014C28B /* Main.storyboard in Resources */,
+				B7974A131B6010D70014C28B /* BeginnersConfiguration.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +271,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7974A141B6010D70014C28B /* BeginnersConfiguration.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,8 +330,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B79749DD1B600D380014C28B /* ViewController.swift in Sources */,
 				B79749DB1B600D380014C28B /* AppDelegate.swift in Sources */,
+				B79749FC1B600F0E0014C28B /* HomeViewController.swift in Sources */,
+				B7974A051B600F3C0014C28B /* User.swift in Sources */,
+				B7974A081B600F6B0014C28B /* Workout.swift in Sources */,
+				B7974A101B6010AD0014C28B /* Exercise.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +343,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B79749F01B600D380014C28B /* BodyweightFitnessTests.swift in Sources */,
+				B79749FD1B600F0E0014C28B /* HomeViewController.swift in Sources */,
+				B7974A061B600F3C0014C28B /* User.swift in Sources */,
+				B7974A091B600F6B0014C28B /* Workout.swift in Sources */,
+				B7974A111B6010AD0014C28B /* Exercise.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,25 +359,6 @@
 			targetProxy = B79749EC1B600D380014C28B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		B79749DE1B600D380014C28B /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B79749DF1B600D380014C28B /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		B79749E31B600D380014C28B /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B79749E41B600D380014C28B /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		B79749F21B600D380014C28B /* Debug */ = {
